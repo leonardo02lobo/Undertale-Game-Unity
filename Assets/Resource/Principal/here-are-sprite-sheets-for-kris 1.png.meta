@@ -1,0 +1,5551 @@
+fileFormatVersion: 2
+guid: c7a085d8394c9264e9770d8149476f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8840685727785465959
+    second: here-are-sprite-sheets-for-kris 1_0
+  - first:
+      213: 3438502376228228050
+    second: here-are-sprite-sheets-for-kris 1_1
+  - first:
+      213: 3989649079407807375
+    second: here-are-sprite-sheets-for-kris 1_2
+  - first:
+      213: 9105723022058138965
+    second: here-are-sprite-sheets-for-kris 1_3
+  - first:
+      213: -3264215228031447489
+    second: here-are-sprite-sheets-for-kris 1_4
+  - first:
+      213: -596756748304471078
+    second: here-are-sprite-sheets-for-kris 1_5
+  - first:
+      213: 7451989170282296142
+    second: here-are-sprite-sheets-for-kris 1_6
+  - first:
+      213: -7063297718388519557
+    second: here-are-sprite-sheets-for-kris 1_7
+  - first:
+      213: 35958891762323962
+    second: here-are-sprite-sheets-for-kris 1_8
+  - first:
+      213: 4953654439225706614
+    second: here-are-sprite-sheets-for-kris 1_9
+  - first:
+      213: -267851834764740754
+    second: here-are-sprite-sheets-for-kris 1_10
+  - first:
+      213: 2773615667698426320
+    second: here-are-sprite-sheets-for-kris 1_11
+  - first:
+      213: -5031507670588291620
+    second: here-are-sprite-sheets-for-kris 1_12
+  - first:
+      213: -312682870734427750
+    second: here-are-sprite-sheets-for-kris 1_13
+  - first:
+      213: -3075110053698002223
+    second: here-are-sprite-sheets-for-kris 1_14
+  - first:
+      213: 4021122941699755197
+    second: here-are-sprite-sheets-for-kris 1_15
+  - first:
+      213: 4396278731361253809
+    second: here-are-sprite-sheets-for-kris 1_16
+  - first:
+      213: 1120860046814900322
+    second: here-are-sprite-sheets-for-kris 1_17
+  - first:
+      213: 8789756560656642754
+    second: here-are-sprite-sheets-for-kris 1_18
+  - first:
+      213: -2663973837130838637
+    second: here-are-sprite-sheets-for-kris 1_19
+  - first:
+      213: -4393779634214871531
+    second: here-are-sprite-sheets-for-kris 1_20
+  - first:
+      213: -8015329363833099289
+    second: here-are-sprite-sheets-for-kris 1_21
+  - first:
+      213: 3046668565266370929
+    second: here-are-sprite-sheets-for-kris 1_22
+  - first:
+      213: 4126485074006708661
+    second: here-are-sprite-sheets-for-kris 1_23
+  - first:
+      213: 2325140624419054935
+    second: here-are-sprite-sheets-for-kris 1_24
+  - first:
+      213: 794085923004667909
+    second: here-are-sprite-sheets-for-kris 1_25
+  - first:
+      213: -9049527937906291524
+    second: here-are-sprite-sheets-for-kris 1_26
+  - first:
+      213: 8135474637685531634
+    second: here-are-sprite-sheets-for-kris 1_27
+  - first:
+      213: -5069701892796745283
+    second: here-are-sprite-sheets-for-kris 1_28
+  - first:
+      213: -4398313624084487147
+    second: here-are-sprite-sheets-for-kris 1_29
+  - first:
+      213: 7716668447940519540
+    second: here-are-sprite-sheets-for-kris 1_30
+  - first:
+      213: -3095385376483144616
+    second: here-are-sprite-sheets-for-kris 1_31
+  - first:
+      213: -3469431644765679474
+    second: here-are-sprite-sheets-for-kris 1_32
+  - first:
+      213: -492054999570383236
+    second: here-are-sprite-sheets-for-kris 1_33
+  - first:
+      213: 8781953966984087486
+    second: here-are-sprite-sheets-for-kris 1_34
+  - first:
+      213: 6791434271603962895
+    second: here-are-sprite-sheets-for-kris 1_35
+  - first:
+      213: -6174889822247894430
+    second: here-are-sprite-sheets-for-kris 1_36
+  - first:
+      213: 2742296157156785097
+    second: here-are-sprite-sheets-for-kris 1_37
+  - first:
+      213: -5075854301147396937
+    second: here-are-sprite-sheets-for-kris 1_38
+  - first:
+      213: 5884294365322039388
+    second: here-are-sprite-sheets-for-kris 1_39
+  - first:
+      213: 8400836571664997351
+    second: here-are-sprite-sheets-for-kris 1_40
+  - first:
+      213: 3889860528283578179
+    second: here-are-sprite-sheets-for-kris 1_41
+  - first:
+      213: -3568502635659295442
+    second: here-are-sprite-sheets-for-kris 1_42
+  - first:
+      213: 6574330182644432539
+    second: here-are-sprite-sheets-for-kris 1_43
+  - first:
+      213: -4571813331293039667
+    second: here-are-sprite-sheets-for-kris 1_44
+  - first:
+      213: -2312560995795974177
+    second: here-are-sprite-sheets-for-kris 1_45
+  - first:
+      213: -2332556606037495547
+    second: here-are-sprite-sheets-for-kris 1_46
+  - first:
+      213: 2062240276250199315
+    second: here-are-sprite-sheets-for-kris 1_47
+  - first:
+      213: -8114928183164019582
+    second: here-are-sprite-sheets-for-kris 1_48
+  - first:
+      213: -3750213226696112204
+    second: here-are-sprite-sheets-for-kris 1_49
+  - first:
+      213: -262552712678527083
+    second: here-are-sprite-sheets-for-kris 1_50
+  - first:
+      213: -3417479366208184749
+    second: here-are-sprite-sheets-for-kris 1_51
+  - first:
+      213: 5013939190596847761
+    second: here-are-sprite-sheets-for-kris 1_52
+  - first:
+      213: -2827471162087226126
+    second: here-are-sprite-sheets-for-kris 1_53
+  - first:
+      213: 8533722739033664845
+    second: here-are-sprite-sheets-for-kris 1_54
+  - first:
+      213: -1629884447003752529
+    second: here-are-sprite-sheets-for-kris 1_55
+  - first:
+      213: -5073178786845841478
+    second: here-are-sprite-sheets-for-kris 1_56
+  - first:
+      213: -5554511149461372023
+    second: here-are-sprite-sheets-for-kris 1_57
+  - first:
+      213: -4664638979560074500
+    second: here-are-sprite-sheets-for-kris 1_58
+  - first:
+      213: -7660029103385258561
+    second: here-are-sprite-sheets-for-kris 1_59
+  - first:
+      213: 8215943341782889643
+    second: here-are-sprite-sheets-for-kris 1_60
+  - first:
+      213: 1034977979252017854
+    second: here-are-sprite-sheets-for-kris 1_61
+  - first:
+      213: 6555943505405083296
+    second: here-are-sprite-sheets-for-kris 1_62
+  - first:
+      213: -5590572660531571590
+    second: here-are-sprite-sheets-for-kris 1_63
+  - first:
+      213: -1365684380940149094
+    second: here-are-sprite-sheets-for-kris 1_64
+  - first:
+      213: -2679293722666208777
+    second: here-are-sprite-sheets-for-kris 1_65
+  - first:
+      213: -4668624387900094203
+    second: here-are-sprite-sheets-for-kris 1_66
+  - first:
+      213: -2105554720217644965
+    second: here-are-sprite-sheets-for-kris 1_67
+  - first:
+      213: -9107849935928577706
+    second: here-are-sprite-sheets-for-kris 1_68
+  - first:
+      213: 834318979708571263
+    second: here-are-sprite-sheets-for-kris 1_69
+  - first:
+      213: -6201314993178918630
+    second: here-are-sprite-sheets-for-kris 1_70
+  - first:
+      213: 7420728833292328933
+    second: here-are-sprite-sheets-for-kris 1_71
+  - first:
+      213: -4893423672935144677
+    second: here-are-sprite-sheets-for-kris 1_72
+  - first:
+      213: -283666763376286039
+    second: here-are-sprite-sheets-for-kris 1_73
+  - first:
+      213: 104097600357650560
+    second: here-are-sprite-sheets-for-kris 1_74
+  - first:
+      213: 8589840463420778354
+    second: here-are-sprite-sheets-for-kris 1_75
+  - first:
+      213: -4060709428301571567
+    second: here-are-sprite-sheets-for-kris 1_76
+  - first:
+      213: 7681885410407452351
+    second: here-are-sprite-sheets-for-kris 1_77
+  - first:
+      213: -8347654601598007633
+    second: here-are-sprite-sheets-for-kris 1_78
+  - first:
+      213: 3158004007006087038
+    second: here-are-sprite-sheets-for-kris 1_79
+  - first:
+      213: -5355368240400646403
+    second: here-are-sprite-sheets-for-kris 1_80
+  - first:
+      213: 1034853627465513891
+    second: here-are-sprite-sheets-for-kris 1_81
+  - first:
+      213: 7028919145960050627
+    second: here-are-sprite-sheets-for-kris 1_82
+  - first:
+      213: 4353596004600139181
+    second: here-are-sprite-sheets-for-kris 1_83
+  - first:
+      213: 1691842725389042900
+    second: here-are-sprite-sheets-for-kris 1_84
+  - first:
+      213: -5251030115567894744
+    second: here-are-sprite-sheets-for-kris 1_85
+  - first:
+      213: -4711826396434993241
+    second: here-are-sprite-sheets-for-kris 1_86
+  - first:
+      213: -4980024383834860619
+    second: here-are-sprite-sheets-for-kris 1_87
+  - first:
+      213: -2553024339016279829
+    second: here-are-sprite-sheets-for-kris 1_88
+  - first:
+      213: 6622674380165235574
+    second: here-are-sprite-sheets-for-kris 1_89
+  - first:
+      213: 1399361091942392499
+    second: here-are-sprite-sheets-for-kris 1_90
+  - first:
+      213: -2163394333779010420
+    second: here-are-sprite-sheets-for-kris 1_91
+  - first:
+      213: -6570805138622771282
+    second: here-are-sprite-sheets-for-kris 1_92
+  - first:
+      213: 4508107462409522769
+    second: here-are-sprite-sheets-for-kris 1_93
+  - first:
+      213: -1334722637377852078
+    second: here-are-sprite-sheets-for-kris 1_94
+  - first:
+      213: -4117822224188726638
+    second: here-are-sprite-sheets-for-kris 1_95
+  - first:
+      213: -7576365454255117686
+    second: here-are-sprite-sheets-for-kris 1_96
+  - first:
+      213: -7926771441610548031
+    second: here-are-sprite-sheets-for-kris 1_97
+  - first:
+      213: 2279187068680819109
+    second: here-are-sprite-sheets-for-kris 1_98
+  - first:
+      213: 3740395196031874471
+    second: here-are-sprite-sheets-for-kris 1_99
+  - first:
+      213: -2487531196394643605
+    second: here-are-sprite-sheets-for-kris 1_100
+  - first:
+      213: 7634676825315877941
+    second: here-are-sprite-sheets-for-kris 1_101
+  - first:
+      213: 1096172852984252809
+    second: here-are-sprite-sheets-for-kris 1_102
+  - first:
+      213: 3903145430249422818
+    second: here-are-sprite-sheets-for-kris 1_103
+  - first:
+      213: 6197361621451524496
+    second: here-are-sprite-sheets-for-kris 1_104
+  - first:
+      213: -739241309672955480
+    second: here-are-sprite-sheets-for-kris 1_105
+  - first:
+      213: 3197350858200174141
+    second: here-are-sprite-sheets-for-kris 1_106
+  - first:
+      213: 8928746914635745165
+    second: here-are-sprite-sheets-for-kris 1_107
+  - first:
+      213: -7717588293756652708
+    second: here-are-sprite-sheets-for-kris 1_108
+  - first:
+      213: 380992833781084192
+    second: here-are-sprite-sheets-for-kris 1_109
+  - first:
+      213: -4210466725128464576
+    second: here-are-sprite-sheets-for-kris 1_110
+  - first:
+      213: 4901496379752310753
+    second: here-are-sprite-sheets-for-kris 1_111
+  - first:
+      213: -400906942280636818
+    second: here-are-sprite-sheets-for-kris 1_112
+  - first:
+      213: -3180601332184318746
+    second: here-are-sprite-sheets-for-kris 1_113
+  - first:
+      213: 4457548582517560387
+    second: here-are-sprite-sheets-for-kris 1_114
+  - first:
+      213: 2206966274770494790
+    second: here-are-sprite-sheets-for-kris 1_115
+  - first:
+      213: -2345211653497538715
+    second: here-are-sprite-sheets-for-kris 1_116
+  - first:
+      213: -7991203817177548761
+    second: here-are-sprite-sheets-for-kris 1_117
+  - first:
+      213: 8698189116012006134
+    second: here-are-sprite-sheets-for-kris 1_118
+  - first:
+      213: -2280127238583802848
+    second: here-are-sprite-sheets-for-kris 1_119
+  - first:
+      213: 7012647230541941073
+    second: here-are-sprite-sheets-for-kris 1_120
+  - first:
+      213: 6954315609871460305
+    second: here-are-sprite-sheets-for-kris 1_121
+  - first:
+      213: 2862566044829675041
+    second: here-are-sprite-sheets-for-kris 1_122
+  - first:
+      213: -3741721321962774783
+    second: here-are-sprite-sheets-for-kris 1_123
+  - first:
+      213: -4208039053731499894
+    second: here-are-sprite-sheets-for-kris 1_124
+  - first:
+      213: 2568191919824125974
+    second: here-are-sprite-sheets-for-kris 1_125
+  - first:
+      213: 7930345188756698784
+    second: here-are-sprite-sheets-for-kris 1_126
+  - first:
+      213: -3060031584314239166
+    second: here-are-sprite-sheets-for-kris 1_127
+  - first:
+      213: 2880127050980590324
+    second: here-are-sprite-sheets-for-kris 1_128
+  - first:
+      213: 6643023254606035521
+    second: here-are-sprite-sheets-for-kris 1_129
+  - first:
+      213: -7626265659556506544
+    second: here-are-sprite-sheets-for-kris 1_130
+  - first:
+      213: 7314064826475332135
+    second: here-are-sprite-sheets-for-kris 1_131
+  - first:
+      213: 3858437072874884651
+    second: here-are-sprite-sheets-for-kris 1_132
+  - first:
+      213: 8301744077377440300
+    second: here-are-sprite-sheets-for-kris 1_133
+  - first:
+      213: -7388993541249805221
+    second: here-are-sprite-sheets-for-kris 1_134
+  - first:
+      213: 4719108583744249677
+    second: here-are-sprite-sheets-for-kris 1_135
+  - first:
+      213: -5578996337684756161
+    second: here-are-sprite-sheets-for-kris 1_136
+  - first:
+      213: -9060892909198808823
+    second: here-are-sprite-sheets-for-kris 1_137
+  - first:
+      213: 8495268850653057315
+    second: here-are-sprite-sheets-for-kris 1_138
+  - first:
+      213: -7605297061741497631
+    second: here-are-sprite-sheets-for-kris 1_139
+  - first:
+      213: 7178961971848111998
+    second: here-are-sprite-sheets-for-kris 1_140
+  - first:
+      213: 8770244135289767247
+    second: here-are-sprite-sheets-for-kris 1_141
+  - first:
+      213: 8707142225710089165
+    second: here-are-sprite-sheets-for-kris 1_142
+  - first:
+      213: 5195414417082081851
+    second: here-are-sprite-sheets-for-kris 1_143
+  - first:
+      213: -8700275351677878812
+    second: here-are-sprite-sheets-for-kris 1_144
+  - first:
+      213: -2458897261787286062
+    second: here-are-sprite-sheets-for-kris 1_145
+  - first:
+      213: -3334564344627738490
+    second: here-are-sprite-sheets-for-kris 1_146
+  - first:
+      213: 19305839032627691
+    second: here-are-sprite-sheets-for-kris 1_147
+  - first:
+      213: -2404868979220886499
+    second: here-are-sprite-sheets-for-kris 1_148
+  - first:
+      213: 9131924674706414003
+    second: here-are-sprite-sheets-for-kris 1_149
+  - first:
+      213: -639184200789057416
+    second: here-are-sprite-sheets-for-kris 1_150
+  - first:
+      213: -5429947774623424198
+    second: here-are-sprite-sheets-for-kris 1_151
+  - first:
+      213: 146995955429510460
+    second: here-are-sprite-sheets-for-kris 1_152
+  - first:
+      213: 1262807094557735614
+    second: here-are-sprite-sheets-for-kris 1_153
+  - first:
+      213: 5952495238483627220
+    second: here-are-sprite-sheets-for-kris 1_154
+  - first:
+      213: -658813683628430334
+    second: here-are-sprite-sheets-for-kris 1_155
+  - first:
+      213: -8724542840819412555
+    second: here-are-sprite-sheets-for-kris 1_156
+  - first:
+      213: 6485745306932844118
+    second: here-are-sprite-sheets-for-kris 1_157
+  - first:
+      213: -4378017857514678709
+    second: here-are-sprite-sheets-for-kris 1_158
+  - first:
+      213: -4530748191679301053
+    second: here-are-sprite-sheets-for-kris 1_159
+  - first:
+      213: -6737630731611872706
+    second: here-are-sprite-sheets-for-kris 1_160
+  - first:
+      213: 3476968742043789560
+    second: here-are-sprite-sheets-for-kris 1_161
+  - first:
+      213: -5280158571590108111
+    second: here-are-sprite-sheets-for-kris 1_162
+  - first:
+      213: 9173683646137314469
+    second: here-are-sprite-sheets-for-kris 1_163
+  - first:
+      213: -6134945199003713745
+    second: here-are-sprite-sheets-for-kris 1_164
+  - first:
+      213: 3842279058577808592
+    second: here-are-sprite-sheets-for-kris 1_165
+  - first:
+      213: 7564435448985057448
+    second: here-are-sprite-sheets-for-kris 1_166
+  - first:
+      213: 4806364445785432630
+    second: here-are-sprite-sheets-for-kris 1_167
+  - first:
+      213: -2250797817838285727
+    second: here-are-sprite-sheets-for-kris 1_168
+  - first:
+      213: -7143155653034582184
+    second: here-are-sprite-sheets-for-kris 1_169
+  - first:
+      213: 8255934126607107661
+    second: here-are-sprite-sheets-for-kris 1_170
+  - first:
+      213: -7320101625525299771
+    second: here-are-sprite-sheets-for-kris 1_171
+  - first:
+      213: 3937419979885252956
+    second: here-are-sprite-sheets-for-kris 1_172
+  - first:
+      213: -1471956087861387481
+    second: here-are-sprite-sheets-for-kris 1_173
+  - first:
+      213: 7121404093459620239
+    second: here-are-sprite-sheets-for-kris 1_174
+  - first:
+      213: -7077859920561900468
+    second: here-are-sprite-sheets-for-kris 1_175
+  - first:
+      213: 4964056640508161955
+    second: here-are-sprite-sheets-for-kris 1_176
+  - first:
+      213: -1365157118657017935
+    second: here-are-sprite-sheets-for-kris 1_177
+  - first:
+      213: 5321814684507801303
+    second: here-are-sprite-sheets-for-kris 1_178
+  - first:
+      213: 9049256594364534538
+    second: here-are-sprite-sheets-for-kris 1_179
+  - first:
+      213: 377519382214315147
+    second: here-are-sprite-sheets-for-kris 1_180
+  - first:
+      213: 6958858400368555432
+    second: here-are-sprite-sheets-for-kris 1_181
+  - first:
+      213: -2221475013020397948
+    second: here-are-sprite-sheets-for-kris 1_182
+  - first:
+      213: -976225321980507536
+    second: here-are-sprite-sheets-for-kris 1_183
+  - first:
+      213: 4637192861174044407
+    second: here-are-sprite-sheets-for-kris 1_184
+  - first:
+      213: -626027074086710952
+    second: here-are-sprite-sheets-for-kris 1_185
+  - first:
+      213: 2962378627119191382
+    second: here-are-sprite-sheets-for-kris 1_186
+  - first:
+      213: 4978072301804235750
+    second: here-are-sprite-sheets-for-kris 1_187
+  - first:
+      213: -2830188547221118742
+    second: here-are-sprite-sheets-for-kris 1_188
+  - first:
+      213: 4065256548846316225
+    second: here-are-sprite-sheets-for-kris 1_189
+  - first:
+      213: -2355286628912524688
+    second: here-are-sprite-sheets-for-kris 1_190
+  - first:
+      213: -8732901197809185632
+    second: here-are-sprite-sheets-for-kris 1_191
+  - first:
+      213: -947698758247703518
+    second: here-are-sprite-sheets-for-kris 1_192
+  - first:
+      213: 8192052855568905954
+    second: here-are-sprite-sheets-for-kris 1_193
+  - first:
+      213: 6664731480019009124
+    second: here-are-sprite-sheets-for-kris 1_194
+  - first:
+      213: 1939656089176534101
+    second: here-are-sprite-sheets-for-kris 1_195
+  - first:
+      213: -7821346648490626449
+    second: here-are-sprite-sheets-for-kris 1_196
+  - first:
+      213: 4010690859478499493
+    second: here-are-sprite-sheets-for-kris 1_197
+  - first:
+      213: 384015973815719835
+    second: here-are-sprite-sheets-for-kris 1_198
+  - first:
+      213: 6154646811152153101
+    second: here-are-sprite-sheets-for-kris 1_199
+  - first:
+      213: -2475860833657475317
+    second: here-are-sprite-sheets-for-kris 1_200
+  - first:
+      213: -2489383394694906020
+    second: here-are-sprite-sheets-for-kris 1_201
+  - first:
+      213: 3278219806678512423
+    second: here-are-sprite-sheets-for-kris 1_202
+  - first:
+      213: -753677837526867144
+    second: here-are-sprite-sheets-for-kris 1_203
+  - first:
+      213: 8971739351314912521
+    second: here-are-sprite-sheets-for-kris 1_204
+  - first:
+      213: 5895172387065765472
+    second: here-are-sprite-sheets-for-kris 1_205
+  - first:
+      213: -7948859086958869377
+    second: here-are-sprite-sheets-for-kris 1_206
+  - first:
+      213: -6350115183192484201
+    second: here-are-sprite-sheets-for-kris 1_207
+  - first:
+      213: -4050956908849758558
+    second: here-are-sprite-sheets-for-kris 1_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 945
+        width: 61
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b48754dc60ba70800000000000000
+      internalID: 8840685727785465959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 873
+        width: 61
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8b6671b308bf20800000000000000
+      internalID: 3438502376228228050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b019c13b41e5730800000000000000
+      internalID: 3989649079407807375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d2fd828d60e5e70800000000000000
+      internalID: 9105723022058138965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 943
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ec3ce6b8d23b2d0800000000000000
+      internalID: -3264215228031447489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbaeff26e4e7b7f0800000000000000
+      internalID: -596756748304471078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 944
+        width: 61
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43fbb40ba8ca6760800000000000000
+      internalID: 7451989170282296142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d00a8e5202afd90800000000000000
+      internalID: -7063297718388519557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1920aeb60cf7000800000000000000
+      internalID: 35958891762323962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c516877aeeb440800000000000000
+      internalID: 4953654439225706614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1011
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673968ec26684cf0800000000000000
+      internalID: -267851834764740754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1010
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d16f9821ccdd7620800000000000000
+      internalID: 2773615667698426320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1010
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58ee18e6e7c2ab0800000000000000
+      internalID: -5031507670588291620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1010
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996682f59029abf0800000000000000
+      internalID: -312682870734427750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 977
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22914e2b30355d0800000000000000
+      internalID: -3075110053698002223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1010
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc003ab206edc730800000000000000
+      internalID: 4021122941699755197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_16
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1009
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97464b638b20d30800000000000000
+      internalID: 4396278731361253809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 982
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260745526481e8f00800000000000000
+      internalID: 1120860046814900322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 996
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23914950d7bf970800000000000000
+      internalID: 8789756560656642754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_19
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 979
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc1e2d8e9a70bd0800000000000000
+      internalID: -2663973837130838637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 997
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ed641b3b82603c0800000000000000
+      internalID: -4393779634214871531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 997
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb68fe1964d3c090800000000000000
+      internalID: -8015329363833099289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 997
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1711d0d0be0f74a20800000000000000
+      internalID: 3046668565266370929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 982
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11f1fcf48344930800000000000000
+      internalID: 4126485074006708661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_24
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 996
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e35b241f844020800000000000000
+      internalID: 2325140624419054935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 989
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d4d190f8250b00800000000000000
+      internalID: 794085923004667909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_26
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 997
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4f14794e996280800000000000000
+      internalID: -9049527937906291524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 982
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f32272541307e070800000000000000
+      internalID: 8135474637685531634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_28
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 982
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db979ba2dfcc4a9b0800000000000000
+      internalID: -5069701892796745283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_29
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 988
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514eea9ef0d06f2c0800000000000000
+      internalID: -4398313624084487147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_30
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 988
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a5f8911d171b60800000000000000
+      internalID: 7716668447940519540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_31
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 986
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c88cf666bfa05d0800000000000000
+      internalID: -3095385376483144616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_32
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 982
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e801e390d4a1adfc0800000000000000
+      internalID: -3469431644765679474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_33
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 982
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ef6acb59edb29f0800000000000000
+      internalID: -492054999570383236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_34
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 990
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb74bebaa94cfd970800000000000000
+      internalID: 8781953966984087486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_35
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 983
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043e5acc75004e50800000000000000
+      internalID: 6791434271603962895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_36
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624db13c626e4aa0800000000000000
+      internalID: -6174889822247894430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_37
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbbf3c53d79e0620800000000000000
+      internalID: 2742296157156785097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_38
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 982
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b48878f761fe89b0800000000000000
+      internalID: -5075854301147396937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 982
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505ad68c8639a150800000000000000
+      internalID: 5884294365322039388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_40
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 982
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd3363a54c59470800000000000000
+      internalID: 8400836571664997351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_41
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 988
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fe7268a8f8bf530800000000000000
+      internalID: 3889860528283578179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_42
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 982
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e258b7572c12a7ec0800000000000000
+      internalID: -3568502635659295442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_43
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 982
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e76a40876bc3b50800000000000000
+      internalID: 6574330182644432539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_44
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 989
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc312e86ff7ad80c0800000000000000
+      internalID: -4571813331293039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 943
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7482cd60228efd0800000000000000
+      internalID: -2312560995795974177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 944
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501f4ae002811afd0800000000000000
+      internalID: -2332556606037495547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 943
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158563ea9c8e9c10800000000000000
+      internalID: 2062240276250199315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 944
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd3b8efcbf16f80800000000000000
+      internalID: -8114928183164019582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 944
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78ec690f094fbc0800000000000000
+      internalID: -3750213226696112204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 807
+        width: 56
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2bf9e2b93b5cf0800000000000000
+      internalID: -262552712678527083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_51
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 944
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e1fed7f9ca290d0800000000000000
+      internalID: -3417479366208184749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_52
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 939
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984fecf027159540800000000000000
+      internalID: 5013939190596847761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_53
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 630
+        width: 261
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4412b65fdc2c8d0800000000000000
+      internalID: -2827471162087226126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_54
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 974
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d66c71e9fdd6670800000000000000
+      internalID: 8533722739033664845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_55
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 974
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7486f1bbc7169e0800000000000000
+      internalID: -1629884447003752529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 974
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a100b5c27899b0800000000000000
+      internalID: -5073178786845841478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_57
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 974
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838863e9896ae2b0800000000000000
+      internalID: -5554511149461372023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_58
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 974
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf291e9ff8fd34fb0800000000000000
+      internalID: -4664638979560074500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_59
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb551937d1c12b590800000000000000
+      internalID: -7660029103385258561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_60
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 961
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba474bd70f4e40270800000000000000
+      internalID: 8215943341782889643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_61
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 940
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0ba31dfafc5e00800000000000000
+      internalID: 1034977979252017854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 810
+        width: 55
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef23f12e36bfa50800000000000000
+      internalID: 6555943505405083296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_63
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 875
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74510e09cb4a62b0800000000000000
+      internalID: -5590572660531571590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_64
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 876
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e53ce8a4d1c0de0800000000000000
+      internalID: -1365684380940149094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_65
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 944
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fb830e8c31dad0800000000000000
+      internalID: -2679293722666208777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 879
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5094d79cad6b53fb0800000000000000
+      internalID: -4668624387900094203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 882
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50c74e332197c2e0800000000000000
+      internalID: -2105554720217644965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 876
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651b96d1dba6a9180800000000000000
+      internalID: -9107849935928577706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 880
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e45ee01b8149b00800000000000000
+      internalID: 834318979708571263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 810
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114443aed080f9a0800000000000000
+      internalID: -6201314993178918630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 810
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef53e2ae89bbf660800000000000000
+      internalID: 7420728833292328933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 875
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a63f8811171cb0800000000000000
+      internalID: -4893423672935144677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_73
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 913
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a62f56e496301cf0800000000000000
+      internalID: -283666763376286039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_74
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 921
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d94b4734d17100800000000000000
+      internalID: 104097600357650560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_75
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 905
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e87bf36e353770800000000000000
+      internalID: 8589840463420778354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_76
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a510e1a4675a7c0800000000000000
+      internalID: -4060709428301571567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 810
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe8794941a8b9a60800000000000000
+      internalID: 7681885410407452351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_78
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 882
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6881c1e5c272c80800000000000000
+      internalID: -8347654601598007633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 810
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77abdc99eb73db20800000000000000
+      internalID: 3158004007006087038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 741
+        width: 45
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeb28595f8eda5b0800000000000000
+      internalID: -5355368240400646403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_81
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 675
+        width: 53
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3b9b24e98c5e00800000000000000
+      internalID: 1034853627465513891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_82
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 675
+        width: 51
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf04e1f8bcbb8160800000000000000
+      internalID: 7028919145960050627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_83
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 807
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad40c5ff741b6c30800000000000000
+      internalID: 4353596004600139181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_84
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 807
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d484a6bef1aa7710800000000000000
+      internalID: 1691842725389042900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 807
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f72b85ee79027b0800000000000000
+      internalID: -5251030115567894744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_86
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 843
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afee255bda3c9eb0800000000000000
+      internalID: -4711826396434993241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_87
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 835
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35dbc453663eab0800000000000000
+      internalID: -4980024383834860619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_88
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 811
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81202e3e5d19cd0800000000000000
+      internalID: -2553024339016279829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 675
+        width: 45
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67344d4a24778eb50800000000000000
+      internalID: 6622674380165235574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_90
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 675
+        width: 46
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2aabdbf778b6310800000000000000
+      internalID: 1399361091942392499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 675
+        width: 49
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c520ac0541af1e0800000000000000
+      internalID: -2163394333779010420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_92
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 675
+        width: 51
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf04104a8fcfc4a0800000000000000
+      internalID: -6570805138622771282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 675
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e05322ad3009e30800000000000000
+      internalID: 4508107462409522769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_94
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 741
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dab6d35dc1a7de0800000000000000
+      internalID: -1334722637377852078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_95
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 743
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a507118e8ad6c0800000000000000
+      internalID: -4117822224188726638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_96
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 743
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a259ab2c75bd690800000000000000
+      internalID: -7576365454255117686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_97
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 779
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc97172f537ef190800000000000000
+      internalID: -7926771441610548031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_98
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 786
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15265309c41af10800000000000000
+      internalID: 2279187068680819109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_99
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 771
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5be030d9d88e330800000000000000
+      internalID: 3740395196031874471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 471
+        width: 53
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fd13f6e838a7dd0800000000000000
+      internalID: -2487531196394643605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 538
+        width: 54
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342cd35f12d3f960800000000000000
+      internalID: 7634676825315877941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_102
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 538
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898d8ae663663f00800000000000000
+      internalID: 1096172852984252809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_103
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 474
+        width: 65
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efb4bcc612ca2630800000000000000
+      internalID: 3903145430249422818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 675
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c1474f83710650800000000000000
+      internalID: 6197361621451524496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_105
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 537
+        width: 59
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a126ad02ffadb5f0800000000000000
+      internalID: -739241309672955480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_106
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 538
+        width: 55
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ecf4d4aa54f5c20800000000000000
+      internalID: 3197350858200174141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_107
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 474
+        width: 49
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d878a38230849eb70800000000000000
+      internalID: 8928746914635745165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_108
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 606
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53fbeb165e95e490800000000000000
+      internalID: -7717588293756652708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_109
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 540
+        width: 49
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020bd77b6fe894500800000000000000
+      internalID: 380992833781084192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_110
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 675
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0479d1e42da6195c0800000000000000
+      internalID: -4210466725128464576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_111
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 540
+        width: 47
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7eff6fcfc950440800000000000000
+      internalID: 4901496379752310753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_112
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 675
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ef559241bf6af0800000000000000
+      internalID: -400906942280636818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_113
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 606
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecf40f90fb3cd3d0800000000000000
+      internalID: -3180601332184318746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 675
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344510691d46cdd30800000000000000
+      internalID: 4457548582517560387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_115
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 606
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64566f64228b0ae10800000000000000
+      internalID: 2206966274770494790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_116
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 675
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673c263d62247fd0800000000000000
+      internalID: -2345211653497538715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 471
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728f26da77a891190800000000000000
+      internalID: -7991203817177548761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_118
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 471
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa80118aec26b870800000000000000
+      internalID: 8698189116012006134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 538
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024258d6b5c5b50e0800000000000000
+      internalID: -2280127238583802848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 471
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594497608de15160800000000000000
+      internalID: 7012647230541941073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_121
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 471
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a75e9331b28060800000000000000
+      internalID: 6954315609871460305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_122
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 540
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eea28b6a0e9b720800000000000000
+      internalID: 2862566044829675041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 471
+        width: 8
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f57eb384cb21cc0800000000000000
+      internalID: -3741721321962774783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 337
+        width: 68
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80fc5996ca0a95c0800000000000000
+      internalID: -4208039053731499894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_125
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 539
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104528b1fc04a320800000000000000
+      internalID: 2568191919824125974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_126
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 540
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63212beee3e0e60800000000000000
+      internalID: 7930345188756698784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_127
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 540
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247597f9c759885d0800000000000000
+      internalID: -3060031584314239166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_128
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 337
+        width: 69
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f201b51b4448f720800000000000000
+      internalID: 2880127050980590324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_129
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 540
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab37d2472c03c50800000000000000
+      internalID: 6643023254606035521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_130
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 539
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054df5fc9cf0a2690800000000000000
+      internalID: -7626265659556506544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 471
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722cd364537c08560800000000000000
+      internalID: 7314064826475332135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 337
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec7ec231ceb8530800000000000000
+      internalID: 3858437072874884651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 337
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a094cf048b53370800000000000000
+      internalID: 8301744077377440300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_134
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 471
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b545626d585057990800000000000000
+      internalID: -7388993541249805221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_135
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 337
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f92960144ad7140800000000000000
+      internalID: 4719108583744249677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_136
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 337
+        width: 67
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f394811c36c6392b0800000000000000
+      internalID: -5578996337684756161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_137
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 472
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909695fd7ed314280800000000000000
+      internalID: -9060892909198808823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_138
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 404
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321dd92820245e570800000000000000
+      internalID: 8495268850653057315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_139
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2739fed9e847690800000000000000
+      internalID: -7605297061741497631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_140
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 267
+        width: 70
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e776b0ca0ebc0a360800000000000000
+      internalID: 7178961971848111998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_141
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 405
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454665039a26b970800000000000000
+      internalID: 8770244135289767247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_142
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 470
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3014cc8bbf5d870800000000000000
+      internalID: 8707142225710089165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_143
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 337
+        width: 67
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32ee17c2e1d91840800000000000000
+      internalID: 5195414417082081851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_144
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 337
+        width: 63
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed3727e9a9624780800000000000000
+      internalID: -8700275351677878812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_145
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 413
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5fcfbd7fd30edd0800000000000000
+      internalID: -2458897261787286062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 412
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688c7c5556f39b1d0800000000000000
+      internalID: -3334564344627738490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_147
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 414
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be171adee86944000800000000000000
+      internalID: 19305839032627691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_148
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 412
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cce2aa76030aed0800000000000000
+      internalID: -2404868979220886499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_149
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 429
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9108fcb1d1bbe70800000000000000
+      internalID: 9131924674706414003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_150
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 411
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8702ded1b592127f0800000000000000
+      internalID: -639184200789057416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_151
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e5a0a443f4a4b0800000000000000
+      internalID: -5429947774623424198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 197
+        width: 45
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8bcaea0c3a0200800000000000000
+      internalID: 146995955429510460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_153
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 250
+        width: 67
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf4f2ac54668110800000000000000
+      internalID: 1262807094557735614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 337
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc4509b1e28b9250800000000000000
+      internalID: 5952495238483627220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_155
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 337
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c292ef17c6bd6f0800000000000000
+      internalID: -658813683628430334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_156
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 337
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11849c2823ce680800000000000000
+      internalID: -8724542840819412555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_157
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 337
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65693636efef10a50800000000000000
+      internalID: 6485745306932844118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_158
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 337
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46558e44f72e33c0800000000000000
+      internalID: -4378017857514678709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_159
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 274
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a363c468c8f11c0800000000000000
+      internalID: -4530748191679301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e48e0c802f72a0800000000000000
+      internalID: -6737630731611872706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 212
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f828ac26aca04030800000000000000
+      internalID: 3476968742043789560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_162
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 270
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c33ae21cb19b6b0800000000000000
+      internalID: -5280158571590108111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_163
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 200
+        width: 63
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac23d10ca87f4f70800000000000000
+      internalID: 9173683646137314469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_164
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 270
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f35e888db4cdaa0800000000000000
+      internalID: -6134945199003713745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_165
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 232
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcd37e4274825530800000000000000
+      internalID: 3842279058577808592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_166
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 270
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8702776f54af860800000000000000
+      internalID: 7564435448985057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_167
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 274
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632ab1c8ff2a3b240800000000000000
+      internalID: 4806364445785432630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_168
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 239
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c46865f4f83c0e0800000000000000
+      internalID: -2250797817838285727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_169
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 226
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdc8597c96edc90800000000000000
+      internalID: -7143155653034582184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_170
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 196
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d460179a858f29270800000000000000
+      internalID: 8255934126607107661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_171
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 217
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c51ecaea56c96a90800000000000000
+      internalID: -7320101625525299771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_172
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 247
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5116904c9684a630800000000000000
+      internalID: 3937419979885252956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_173
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 214
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f5c02acbf829be0800000000000000
+      internalID: -1471956087861387481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_174
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 213
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f816cacca4f44d260800000000000000
+      internalID: 7121404093459620239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_175
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 246
+        width: 109
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44fee007e366cd90800000000000000
+      internalID: -7077859920561900468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_176
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 211
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af686eb63fd3e440800000000000000
+      internalID: 4964056640508161955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_177
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 156
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b74adf55dcfd0de0800000000000000
+      internalID: -1365157118657017935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_178
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 156
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d68b866242ead940800000000000000
+      internalID: 5321814684507801303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_179
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f85747dea659d70800000000000000
+      internalID: 9049256594364534538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c85b0c0e73d3500800000000000000
+      internalID: 377519382214315147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_181
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 162
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f53478d4d29060800000000000000
+      internalID: 6958858400368555432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 153
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e438bde3cbb21e0800000000000000
+      internalID: -2221475013020397948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_183
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 162
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a4c9eed30c372f0800000000000000
+      internalID: -976225321980507536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_184
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 154
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6914d965e9a5040800000000000000
+      internalID: 4637192861174044407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_185
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d84561b7ef47f0800000000000000
+      internalID: -626027074086710952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_186
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 154
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65516af7aab7c1920800000000000000
+      internalID: 2962378627119191382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_187
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 152
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba04f226aa51540800000000000000
+      internalID: 4978072301804235750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_188
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0a183e28629b8d0800000000000000
+      internalID: -2830188547221118742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_189
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 153
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa0d2ea41ba6830800000000000000
+      internalID: 4065256548846316225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_190
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 157
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07211733a47505fd0800000000000000
+      internalID: -2355286628912524688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_191
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 154
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac000621a08ec680800000000000000
+      internalID: -8732901197809185632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_192
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 156
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1190200919d2f0800000000000000
+      internalID: -947698758247703518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_193
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 154
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b8653ba400b170800000000000000
+      internalID: 8192052855568905954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_194
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 156
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e75e548f1ed7c50800000000000000
+      internalID: 6664731480019009124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_195
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 154
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6ac5bfea0bea10800000000000000
+      internalID: 1939656089176534101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_196
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 150
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62368799aef47390800000000000000
+      internalID: -7821346648490626449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04f1f4616d8a730800000000000000
+      internalID: 4010690859478499493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_198
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979c5b5e7c445500800000000000000
+      internalID: 384015973815719835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_199
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 59
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af6b08aa2b96550800000000000000
+      internalID: 6154646811152153101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_200
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f2b8080b9f3add0800000000000000
+      internalID: -2475860833657475317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_201
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 134
+        width: 49
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3479edfee37dd0800000000000000
+      internalID: -2489383394694906020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_202
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f8b0ab839e7d20800000000000000
+      internalID: 3278219806678512423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_203
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833602bfff56a85f0800000000000000
+      internalID: -753677837526867144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_204
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 66
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d48cd765028c70800000000000000
+      internalID: 8971739351314912521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_205
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 66
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1fb45d0cdfc150800000000000000
+      internalID: 5895172387065765472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_206
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 66
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f744e2876caffa190800000000000000
+      internalID: -7948859086958869377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_207
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965ffe92ebdfd7a0800000000000000
+      internalID: -6350115183192484201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: here-are-sprite-sheets-for-kris 1_208
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 58
+        width: 68
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae789f772c18c7c0800000000000000
+      internalID: -4050956908849758558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      here-are-sprite-sheets-for-kris 1_0: 8840685727785465959
+      here-are-sprite-sheets-for-kris 1_1: 3438502376228228050
+      here-are-sprite-sheets-for-kris 1_10: -267851834764740754
+      here-are-sprite-sheets-for-kris 1_100: -2487531196394643605
+      here-are-sprite-sheets-for-kris 1_101: 7634676825315877941
+      here-are-sprite-sheets-for-kris 1_102: 1096172852984252809
+      here-are-sprite-sheets-for-kris 1_103: 3903145430249422818
+      here-are-sprite-sheets-for-kris 1_104: 6197361621451524496
+      here-are-sprite-sheets-for-kris 1_105: -739241309672955480
+      here-are-sprite-sheets-for-kris 1_106: 3197350858200174141
+      here-are-sprite-sheets-for-kris 1_107: 8928746914635745165
+      here-are-sprite-sheets-for-kris 1_108: -7717588293756652708
+      here-are-sprite-sheets-for-kris 1_109: 380992833781084192
+      here-are-sprite-sheets-for-kris 1_11: 2773615667698426320
+      here-are-sprite-sheets-for-kris 1_110: -4210466725128464576
+      here-are-sprite-sheets-for-kris 1_111: 4901496379752310753
+      here-are-sprite-sheets-for-kris 1_112: -400906942280636818
+      here-are-sprite-sheets-for-kris 1_113: -3180601332184318746
+      here-are-sprite-sheets-for-kris 1_114: 4457548582517560387
+      here-are-sprite-sheets-for-kris 1_115: 2206966274770494790
+      here-are-sprite-sheets-for-kris 1_116: -2345211653497538715
+      here-are-sprite-sheets-for-kris 1_117: -7991203817177548761
+      here-are-sprite-sheets-for-kris 1_118: 8698189116012006134
+      here-are-sprite-sheets-for-kris 1_119: -2280127238583802848
+      here-are-sprite-sheets-for-kris 1_12: -5031507670588291620
+      here-are-sprite-sheets-for-kris 1_120: 7012647230541941073
+      here-are-sprite-sheets-for-kris 1_121: 6954315609871460305
+      here-are-sprite-sheets-for-kris 1_122: 2862566044829675041
+      here-are-sprite-sheets-for-kris 1_123: -3741721321962774783
+      here-are-sprite-sheets-for-kris 1_124: -4208039053731499894
+      here-are-sprite-sheets-for-kris 1_125: 2568191919824125974
+      here-are-sprite-sheets-for-kris 1_126: 7930345188756698784
+      here-are-sprite-sheets-for-kris 1_127: -3060031584314239166
+      here-are-sprite-sheets-for-kris 1_128: 2880127050980590324
+      here-are-sprite-sheets-for-kris 1_129: 6643023254606035521
+      here-are-sprite-sheets-for-kris 1_13: -312682870734427750
+      here-are-sprite-sheets-for-kris 1_130: -7626265659556506544
+      here-are-sprite-sheets-for-kris 1_131: 7314064826475332135
+      here-are-sprite-sheets-for-kris 1_132: 3858437072874884651
+      here-are-sprite-sheets-for-kris 1_133: 8301744077377440300
+      here-are-sprite-sheets-for-kris 1_134: -7388993541249805221
+      here-are-sprite-sheets-for-kris 1_135: 4719108583744249677
+      here-are-sprite-sheets-for-kris 1_136: -5578996337684756161
+      here-are-sprite-sheets-for-kris 1_137: -9060892909198808823
+      here-are-sprite-sheets-for-kris 1_138: 8495268850653057315
+      here-are-sprite-sheets-for-kris 1_139: -7605297061741497631
+      here-are-sprite-sheets-for-kris 1_14: -3075110053698002223
+      here-are-sprite-sheets-for-kris 1_140: 7178961971848111998
+      here-are-sprite-sheets-for-kris 1_141: 8770244135289767247
+      here-are-sprite-sheets-for-kris 1_142: 8707142225710089165
+      here-are-sprite-sheets-for-kris 1_143: 5195414417082081851
+      here-are-sprite-sheets-for-kris 1_144: -8700275351677878812
+      here-are-sprite-sheets-for-kris 1_145: -2458897261787286062
+      here-are-sprite-sheets-for-kris 1_146: -3334564344627738490
+      here-are-sprite-sheets-for-kris 1_147: 19305839032627691
+      here-are-sprite-sheets-for-kris 1_148: -2404868979220886499
+      here-are-sprite-sheets-for-kris 1_149: 9131924674706414003
+      here-are-sprite-sheets-for-kris 1_15: 4021122941699755197
+      here-are-sprite-sheets-for-kris 1_150: -639184200789057416
+      here-are-sprite-sheets-for-kris 1_151: -5429947774623424198
+      here-are-sprite-sheets-for-kris 1_152: 146995955429510460
+      here-are-sprite-sheets-for-kris 1_153: 1262807094557735614
+      here-are-sprite-sheets-for-kris 1_154: 5952495238483627220
+      here-are-sprite-sheets-for-kris 1_155: -658813683628430334
+      here-are-sprite-sheets-for-kris 1_156: -8724542840819412555
+      here-are-sprite-sheets-for-kris 1_157: 6485745306932844118
+      here-are-sprite-sheets-for-kris 1_158: -4378017857514678709
+      here-are-sprite-sheets-for-kris 1_159: -4530748191679301053
+      here-are-sprite-sheets-for-kris 1_16: 4396278731361253809
+      here-are-sprite-sheets-for-kris 1_160: -6737630731611872706
+      here-are-sprite-sheets-for-kris 1_161: 3476968742043789560
+      here-are-sprite-sheets-for-kris 1_162: -5280158571590108111
+      here-are-sprite-sheets-for-kris 1_163: 9173683646137314469
+      here-are-sprite-sheets-for-kris 1_164: -6134945199003713745
+      here-are-sprite-sheets-for-kris 1_165: 3842279058577808592
+      here-are-sprite-sheets-for-kris 1_166: 7564435448985057448
+      here-are-sprite-sheets-for-kris 1_167: 4806364445785432630
+      here-are-sprite-sheets-for-kris 1_168: -2250797817838285727
+      here-are-sprite-sheets-for-kris 1_169: -7143155653034582184
+      here-are-sprite-sheets-for-kris 1_17: 1120860046814900322
+      here-are-sprite-sheets-for-kris 1_170: 8255934126607107661
+      here-are-sprite-sheets-for-kris 1_171: -7320101625525299771
+      here-are-sprite-sheets-for-kris 1_172: 3937419979885252956
+      here-are-sprite-sheets-for-kris 1_173: -1471956087861387481
+      here-are-sprite-sheets-for-kris 1_174: 7121404093459620239
+      here-are-sprite-sheets-for-kris 1_175: -7077859920561900468
+      here-are-sprite-sheets-for-kris 1_176: 4964056640508161955
+      here-are-sprite-sheets-for-kris 1_177: -1365157118657017935
+      here-are-sprite-sheets-for-kris 1_178: 5321814684507801303
+      here-are-sprite-sheets-for-kris 1_179: 9049256594364534538
+      here-are-sprite-sheets-for-kris 1_18: 8789756560656642754
+      here-are-sprite-sheets-for-kris 1_180: 377519382214315147
+      here-are-sprite-sheets-for-kris 1_181: 6958858400368555432
+      here-are-sprite-sheets-for-kris 1_182: -2221475013020397948
+      here-are-sprite-sheets-for-kris 1_183: -976225321980507536
+      here-are-sprite-sheets-for-kris 1_184: 4637192861174044407
+      here-are-sprite-sheets-for-kris 1_185: -626027074086710952
+      here-are-sprite-sheets-for-kris 1_186: 2962378627119191382
+      here-are-sprite-sheets-for-kris 1_187: 4978072301804235750
+      here-are-sprite-sheets-for-kris 1_188: -2830188547221118742
+      here-are-sprite-sheets-for-kris 1_189: 4065256548846316225
+      here-are-sprite-sheets-for-kris 1_19: -2663973837130838637
+      here-are-sprite-sheets-for-kris 1_190: -2355286628912524688
+      here-are-sprite-sheets-for-kris 1_191: -8732901197809185632
+      here-are-sprite-sheets-for-kris 1_192: -947698758247703518
+      here-are-sprite-sheets-for-kris 1_193: 8192052855568905954
+      here-are-sprite-sheets-for-kris 1_194: 6664731480019009124
+      here-are-sprite-sheets-for-kris 1_195: 1939656089176534101
+      here-are-sprite-sheets-for-kris 1_196: -7821346648490626449
+      here-are-sprite-sheets-for-kris 1_197: 4010690859478499493
+      here-are-sprite-sheets-for-kris 1_198: 384015973815719835
+      here-are-sprite-sheets-for-kris 1_199: 6154646811152153101
+      here-are-sprite-sheets-for-kris 1_2: 3989649079407807375
+      here-are-sprite-sheets-for-kris 1_20: -4393779634214871531
+      here-are-sprite-sheets-for-kris 1_200: -2475860833657475317
+      here-are-sprite-sheets-for-kris 1_201: -2489383394694906020
+      here-are-sprite-sheets-for-kris 1_202: 3278219806678512423
+      here-are-sprite-sheets-for-kris 1_203: -753677837526867144
+      here-are-sprite-sheets-for-kris 1_204: 8971739351314912521
+      here-are-sprite-sheets-for-kris 1_205: 5895172387065765472
+      here-are-sprite-sheets-for-kris 1_206: -7948859086958869377
+      here-are-sprite-sheets-for-kris 1_207: -6350115183192484201
+      here-are-sprite-sheets-for-kris 1_208: -4050956908849758558
+      here-are-sprite-sheets-for-kris 1_21: -8015329363833099289
+      here-are-sprite-sheets-for-kris 1_22: 3046668565266370929
+      here-are-sprite-sheets-for-kris 1_23: 4126485074006708661
+      here-are-sprite-sheets-for-kris 1_24: 2325140624419054935
+      here-are-sprite-sheets-for-kris 1_25: 794085923004667909
+      here-are-sprite-sheets-for-kris 1_26: -9049527937906291524
+      here-are-sprite-sheets-for-kris 1_27: 8135474637685531634
+      here-are-sprite-sheets-for-kris 1_28: -5069701892796745283
+      here-are-sprite-sheets-for-kris 1_29: -4398313624084487147
+      here-are-sprite-sheets-for-kris 1_3: 9105723022058138965
+      here-are-sprite-sheets-for-kris 1_30: 7716668447940519540
+      here-are-sprite-sheets-for-kris 1_31: -3095385376483144616
+      here-are-sprite-sheets-for-kris 1_32: -3469431644765679474
+      here-are-sprite-sheets-for-kris 1_33: -492054999570383236
+      here-are-sprite-sheets-for-kris 1_34: 8781953966984087486
+      here-are-sprite-sheets-for-kris 1_35: 6791434271603962895
+      here-are-sprite-sheets-for-kris 1_36: -6174889822247894430
+      here-are-sprite-sheets-for-kris 1_37: 2742296157156785097
+      here-are-sprite-sheets-for-kris 1_38: -5075854301147396937
+      here-are-sprite-sheets-for-kris 1_39: 5884294365322039388
+      here-are-sprite-sheets-for-kris 1_4: -3264215228031447489
+      here-are-sprite-sheets-for-kris 1_40: 8400836571664997351
+      here-are-sprite-sheets-for-kris 1_41: 3889860528283578179
+      here-are-sprite-sheets-for-kris 1_42: -3568502635659295442
+      here-are-sprite-sheets-for-kris 1_43: 6574330182644432539
+      here-are-sprite-sheets-for-kris 1_44: -4571813331293039667
+      here-are-sprite-sheets-for-kris 1_45: -2312560995795974177
+      here-are-sprite-sheets-for-kris 1_46: -2332556606037495547
+      here-are-sprite-sheets-for-kris 1_47: 2062240276250199315
+      here-are-sprite-sheets-for-kris 1_48: -8114928183164019582
+      here-are-sprite-sheets-for-kris 1_49: -3750213226696112204
+      here-are-sprite-sheets-for-kris 1_5: -596756748304471078
+      here-are-sprite-sheets-for-kris 1_50: -262552712678527083
+      here-are-sprite-sheets-for-kris 1_51: -3417479366208184749
+      here-are-sprite-sheets-for-kris 1_52: 5013939190596847761
+      here-are-sprite-sheets-for-kris 1_53: -2827471162087226126
+      here-are-sprite-sheets-for-kris 1_54: 8533722739033664845
+      here-are-sprite-sheets-for-kris 1_55: -1629884447003752529
+      here-are-sprite-sheets-for-kris 1_56: -5073178786845841478
+      here-are-sprite-sheets-for-kris 1_57: -5554511149461372023
+      here-are-sprite-sheets-for-kris 1_58: -4664638979560074500
+      here-are-sprite-sheets-for-kris 1_59: -7660029103385258561
+      here-are-sprite-sheets-for-kris 1_6: 7451989170282296142
+      here-are-sprite-sheets-for-kris 1_60: 8215943341782889643
+      here-are-sprite-sheets-for-kris 1_61: 1034977979252017854
+      here-are-sprite-sheets-for-kris 1_62: 6555943505405083296
+      here-are-sprite-sheets-for-kris 1_63: -5590572660531571590
+      here-are-sprite-sheets-for-kris 1_64: -1365684380940149094
+      here-are-sprite-sheets-for-kris 1_65: -2679293722666208777
+      here-are-sprite-sheets-for-kris 1_66: -4668624387900094203
+      here-are-sprite-sheets-for-kris 1_67: -2105554720217644965
+      here-are-sprite-sheets-for-kris 1_68: -9107849935928577706
+      here-are-sprite-sheets-for-kris 1_69: 834318979708571263
+      here-are-sprite-sheets-for-kris 1_7: -7063297718388519557
+      here-are-sprite-sheets-for-kris 1_70: -6201314993178918630
+      here-are-sprite-sheets-for-kris 1_71: 7420728833292328933
+      here-are-sprite-sheets-for-kris 1_72: -4893423672935144677
+      here-are-sprite-sheets-for-kris 1_73: -283666763376286039
+      here-are-sprite-sheets-for-kris 1_74: 104097600357650560
+      here-are-sprite-sheets-for-kris 1_75: 8589840463420778354
+      here-are-sprite-sheets-for-kris 1_76: -4060709428301571567
+      here-are-sprite-sheets-for-kris 1_77: 7681885410407452351
+      here-are-sprite-sheets-for-kris 1_78: -8347654601598007633
+      here-are-sprite-sheets-for-kris 1_79: 3158004007006087038
+      here-are-sprite-sheets-for-kris 1_8: 35958891762323962
+      here-are-sprite-sheets-for-kris 1_80: -5355368240400646403
+      here-are-sprite-sheets-for-kris 1_81: 1034853627465513891
+      here-are-sprite-sheets-for-kris 1_82: 7028919145960050627
+      here-are-sprite-sheets-for-kris 1_83: 4353596004600139181
+      here-are-sprite-sheets-for-kris 1_84: 1691842725389042900
+      here-are-sprite-sheets-for-kris 1_85: -5251030115567894744
+      here-are-sprite-sheets-for-kris 1_86: -4711826396434993241
+      here-are-sprite-sheets-for-kris 1_87: -4980024383834860619
+      here-are-sprite-sheets-for-kris 1_88: -2553024339016279829
+      here-are-sprite-sheets-for-kris 1_89: 6622674380165235574
+      here-are-sprite-sheets-for-kris 1_9: 4953654439225706614
+      here-are-sprite-sheets-for-kris 1_90: 1399361091942392499
+      here-are-sprite-sheets-for-kris 1_91: -2163394333779010420
+      here-are-sprite-sheets-for-kris 1_92: -6570805138622771282
+      here-are-sprite-sheets-for-kris 1_93: 4508107462409522769
+      here-are-sprite-sheets-for-kris 1_94: -1334722637377852078
+      here-are-sprite-sheets-for-kris 1_95: -4117822224188726638
+      here-are-sprite-sheets-for-kris 1_96: -7576365454255117686
+      here-are-sprite-sheets-for-kris 1_97: -7926771441610548031
+      here-are-sprite-sheets-for-kris 1_98: 2279187068680819109
+      here-are-sprite-sheets-for-kris 1_99: 3740395196031874471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

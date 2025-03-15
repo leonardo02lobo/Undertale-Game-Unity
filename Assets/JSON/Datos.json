@@ -1,0 +1,28 @@
+{
+    "datos": [
+        {
+            "nombre": "ana",
+            "puntaje": 4800
+        },
+        {
+            "nombre": "dadawz",
+            "puntaje": 4980
+        },
+        {
+            "nombre": "Leonardo Lobo",
+            "puntaje": 1260
+        },
+        {
+            "nombre": "",
+            "puntaje": 900
+        },
+        {
+            "nombre": "",
+            "puntaje": 1170
+        },
+        {
+            "nombre": "",
+            "puntaje": 900
+        }
+    ]
+}

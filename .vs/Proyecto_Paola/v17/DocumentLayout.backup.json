@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|c:\\users\\equipo\\onedrive\\desktop\\proyecto_paola\\assets\\scripts\\enemigocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|c:\\users\\equipo\\onedrive\\desktop\\proyecto_paola\\assets\\scripts\\enemigofinalcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigofinalcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\assets\\scripts\\movimientopersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientopersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\assets\\scripts\\disparoenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E088D-31BD-3EB6-97E4-FC158D81580D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disparoenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemigoControlador.cs",
+              "DocumentMoniker": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\EnemigoControlador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemigoControlador.cs",
+              "ToolTip": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\EnemigoControlador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemigoControlador.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:27:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoPersonaje.cs",
+              "DocumentMoniker": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\MovimientoPersonaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoPersonaje.cs",
+              "ToolTip": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\MovimientoPersonaje.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoPersonaje.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:06:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemigoFinalControlador.cs",
+              "DocumentMoniker": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\EnemigoFinalControlador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemigoFinalControlador.cs",
+              "ToolTip": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\EnemigoFinalControlador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemigoFinalControlador.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAmwIIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:00:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisparoEnemigo.cs",
+              "DocumentMoniker": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\DisparoEnemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DisparoEnemigo.cs",
+              "ToolTip": "C:\\Users\\equipo\\OneDrive\\Desktop\\Proyecto_Paola\\Assets\\Scripts\\DisparoEnemigo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DisparoEnemigo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:52:16.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
